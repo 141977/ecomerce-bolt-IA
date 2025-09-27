@@ -40,7 +40,7 @@ const products = [
         name: "Short Jeans Claro",
         price: 89.90,
         category: "shorts",
-        image: "https://images.pexels.com/photos/5560023/pexels-photo-5560023.jpeg?auto=compress&cs=tinysrgb&w=400",
+        image: "https://a-static.mlcdn.com.br/1500x1500/bermuda-masculina-sarja-brim-algodao-4-bolsos-juc-men/welintonaraujo/edce0f86466811eeb7174201ac18502e/0a75d4bcab8b8b06a017639127d6331c.jpeg",
         description: "Short jeans claro com lavagem especial. Corte moderno e muito confortável."
     },
     {
